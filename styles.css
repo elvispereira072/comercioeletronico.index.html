@@ -56,13 +56,6 @@ body {
     line-height: 1.5;
   }
   
-  .product {
-    background-color: #f9f9f9;
-    border: 1px solid rgba(1, 0, 0, 0.667);
-    padding: 20px;
-    margin-bottom: 20px;
-  }
-  
   .product img {
     max-width: 100%;
     height: auto;
@@ -155,3 +148,4 @@ body {
     font-size: 24px;
     color: white;
   }
+  
